@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*~
+_build/*
+presentation.html
+theme/
